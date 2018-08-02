@@ -6,3 +6,5 @@ Il progetto si divide in cartelle:
 - Software: è il file .ino compilato con Arduino IDE.
 - Hardware: racchiude i componenti utilizzati, lo schema elettrico e di produzione del PCB.
 - Case: idee e disegni di contenitori per il progetto.
+
+Maggiori informazioni in Wiki
