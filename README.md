@@ -7,4 +7,4 @@ Il progetto si divide in cartelle:
 - Hardware: racchiude i componenti utilizzati, lo schema elettrico e di produzione del PCB.
 - Case: idee e disegni di contenitori per il progetto.
 
-Maggiori informazioni in Wiki
+Maggiori informazioni in [Wiki](https://github.com/agrazio/MopedGPS/wiki)
